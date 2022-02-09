@@ -15,5 +15,6 @@ This setup assumes you have homebrew, node, rails, and npm installed
 ### Get the FE running on localhost:3000
 
 * cd into `fe`
+* run `npm i`
 * run `npm start`
 * visit `localhost:3000` in your browser
