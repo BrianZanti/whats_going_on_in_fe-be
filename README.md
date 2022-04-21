@@ -1,5 +1,14 @@
 # What's Going On in the FE/BE?
 
+The goal of this activity is to leverage our collective FE and BE knowledge to explain how this application works. At the end of this activity you should have more understanding of how the other side of the stack functions as well as a diagram that illustrates how information flows between FE and BE.
+
+## Learning Goals
+
+* Understand how information flows between the FE and BE
+* Get exposure to what the other program has been working on
+* Understand common misconceptions and pain points experienced by FE and BE devs
+* Meet students in the other program
+
 ## Setup
 
 Clone this repo.
@@ -28,3 +37,20 @@ After you run the server you should see that it is waiting for requests. Open a 
 * visit `localhost:3000` in your browser
 
 If everything is set up properly you should see a welcome message.
+
+## Activity
+
+1. FE students, explain to the group what happens when you visit `localhost:3000` in your browser. Trace all the way through the code up to the point where a request to the BE is made.
+1. BE, explain to the group what happens when the app receives the request. Trace all the way through the code up to the point that a response is sent back to the FE.
+1. FE, explain what happens once the FE receives the response.
+1. Once your are finished exploring the code, draw a diagram that illustrates the entire process.
+
+**Extension**
+
+If you have time, answer these questions
+
+* Is there any technical vocab words that the developers in the other program use that you don't understand? If so, try to help each other understand the meaning of those words.
+* How could you get the app to display one of the other messages found in `seeds.rb`?
+* What’s the difference between a database and an api? Is there an analogy that can help describe this?
+* What are frustrations that BE developers might experience when working with FE developers (for example, building an api/database based on specific requests from the FE team)?
+* What are frustrations that FE developers might experience when using technology built by BE developers (for example, accessing an api)?
