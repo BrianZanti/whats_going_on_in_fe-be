@@ -5,5 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-Message.create!(text: "Party Time!")
-Message.create!(text: "Let's do it to it.")
+Message.create!(text: "Welcome to our Full Stack App!")
+Message.create!(text: "App is up and running. Let's do it to it.")
