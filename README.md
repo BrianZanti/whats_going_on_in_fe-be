@@ -8,7 +8,7 @@ The rest of this setup assumes you have Homebrew, Node, and npm installed.
 
 ### Install Ruby
 
-The Backend repo uses Ruby 2.7.2, so if you haven't already you will need to install a Ruby version manager and install Ruby 2.7.2. Follow the steps under "Install rbenv" in (these instructions)[https://mod0.turing.edu/computer-setup#install-rbenv-back-end-students-only]. This will guide you through installing rbenv as well as Ruby 2.7.2.
+The Backend repo uses Ruby 2.7.2, so if you haven't already you will need to install a Ruby version manager and install Ruby 2.7.2. Follow the steps under "Install rbenv" in [these instructions](https://mod0.turing.edu/computer-setup#install-rbenv-back-end-students-only). This will guide you through installing rbenv as well as Ruby 2.7.2.
 
 ### Get the BE running on localhost:3001
 
