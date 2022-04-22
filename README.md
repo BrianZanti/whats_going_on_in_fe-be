@@ -68,4 +68,5 @@ For BE students:
 For FE students:
 
 * What are routes?
-* What are controllers? How do controllers relate to routes?
+* What are controllers? What are actions? 
+* How can you find a controller action for a particular route?
