@@ -68,4 +68,4 @@ For BE students:
 For FE students:
 
 * What are routes?
-* What are controllers?
+* What are controllers? How do controllers relate to routes?
