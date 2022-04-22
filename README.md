@@ -11,7 +11,7 @@ The goal of this activity is to leverage our collective FE and BE knowledge to e
 
 ## Setup
 
-Clone this repo.
+Clone this repo and `cd` into it.
 
 The rest of this setup assumes you have Homebrew, Node, and npm installed.
 
