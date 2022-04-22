@@ -56,3 +56,16 @@ If you have time, answer these questions
 * What’s the difference between a database and an api? Is there an analogy that can help describe this?
 * What are frustrations that BE developers might experience when working with FE developers (for example, building an api/database based on specific requests from the FE team)?
 * What are frustrations that FE developers might experience when using technology built by BE developers (for example, accessing an api)?
+
+## Checks for Understanding
+
+For BE students:
+
+* What is a Component in React?
+* What is a lifecycle method?
+* What is fetch?
+
+For FE students:
+
+* What are routes?
+* What are controllers?
