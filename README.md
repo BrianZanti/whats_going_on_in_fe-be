@@ -42,7 +42,7 @@ If everything is set up properly you should see a welcome message.
 
 In small groups, designate one person to be the screen sharer.
 
-1. FE students, explain to the group what happens when you visit `localhost:3000` in your browser. Trace all the way through the code up to the point where a request to the BE is made.
+1. FE students, explain to the group what happens when you visit `localhost:3000` in your browser. Start with `index.html` and move to `index.js`. From there, trace all the way through the code up to the point where a request to the BE is made.
 1. BE, explain to the group what happens when the app receives the request. Trace all the way through the code up to the point that a response is sent back to the FE.
 1. FE, explain what happens once the FE receives the response.
 1. Once you are finished exploring the code, draw a diagram that illustrates the entire process.
